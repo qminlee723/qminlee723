@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qminlee723
 - 👀 I’m interested in ... travelling
 - 🌱 I’m currently learning... python @SSAFY
-- 📫 How to reach me ...gyumin.q.lee@gmail.com
+- 📫 How to reach me ... gyumin.q.lee@gmail.com
 
 <!---
 qminlee723/qminlee723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
