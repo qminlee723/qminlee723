@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qminlee723
 - 👀 I’m interested in ... travelling
-- 🌱 I’m currently learning... python @SSAFY
+- 🌱 I’m currently learning... python 
 - 📫 How to reach me ... gyumin.q.lee@gmail.com
 
 <!---
