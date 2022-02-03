@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@qminlee723**
 - 👀 I’m interested in ... travelling
-- 🌱 I’m currently learning... *python*, *HTML*, *CSS* 
+- 🌱 I’m currently learning... *python*, *html*, *css* 
 - 📫 You can reach me at *gyumin.q.lee@gmail.com*
 
 <!---
