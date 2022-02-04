@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World:\)&fontSize=80)
 
-✨ Gyumin Lee <br>
+### **GYUMIN LEE** <br>
 📍 based in SEOUL <br>
 ♀️ SHE/HER/HERS <br>
 
@@ -13,8 +13,10 @@
 
 <br>
 
+🐿️ a proud gopher <br>
+🎨 loving art&craft <br>
 🌐 Hello, World! A bit late, but I'm finally here to explore you. <br>
-🐿️ a proud gopher
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
 
