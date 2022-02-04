@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
+
 - 👋 Hi, I’m **@qminlee723**
 - 👀 I’m interested in ... travelling
 - 🌱 I’m currently learning... *python*, *html*, *css* 
