@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World:)&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World:\)&fontSize=80)
 
 - ✨ Gyumin Lee
 - 📍 based in SEOUL, South Korea
