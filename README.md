@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World:)&fontSize=80)
 
+- ✨ Gyumin Lee
+- 📍 based in SEOUL, South Korea
+- ♀️ SHE/HER/HERS
+- 🐿️ gopher
 
-- 👋 Hi, I’m **@qminlee723**
-- 👀 I’m interested in ... travelling
 - 🌱 I’m currently learning... *python*, *html*, *css* 
 - 📫 You can reach me at *gyumin.q.lee@gmail.com*
+- 🔠 Korean, English, Spanish
 
+- 🌐 Hello, World! A bit late, but I'm finally here to explore you. 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
 
