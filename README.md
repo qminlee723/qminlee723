@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20World:\)&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello%20World:\)&fontSize=80)
 
 ### **GYUMIN LEE** <br>
 📍 based in SEOUL <br>
@@ -18,7 +18,7 @@
 🌐 Hello, World! A bit late, but I'm finally here to explore you. <br>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
 
 <!---
 qminlee723/qminlee723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
