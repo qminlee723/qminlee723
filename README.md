@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hello%20World:\)&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hello%20World:\)&fontSize=40)
 
 ### **GYUMIN LEE** <br>
 📍 based in SEOUL <br>
