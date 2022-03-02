@@ -7,7 +7,7 @@
 
 <br>
 
-🌱 I’m currently learning... *python*, *html*, *css* <br>
+🌱 I’m currently learning... *python*, *html*, *css*, *algorithm*, and *django* <br>
 📫 You can reach me at *gyumin.q.lee@gmail.com*<br>
 🔠 Korean, English, Spanish <br>
 
