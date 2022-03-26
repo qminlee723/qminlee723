@@ -16,6 +16,7 @@
 🐿️ a proud gopher <br>
 🎨 loving art&craft <br>
 🌐 Hello, World! A bit late, but I'm finally here to explore you. <br>
+💻 Check out my blog @ qminlee723.github.io - 👷‍♀️ under construction 🛠️
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
