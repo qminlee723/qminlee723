@@ -7,14 +7,14 @@
 
 <br>
 
-🌱 I’m currently learning... *python*, *html*, *css*, *algorithm*, and *django* <br>
+🌱 I’m currently learning... *python*, *html*, *css*, *algorithm*, *django* and "javascript" <br>
 📫 You can reach me at *gyumin.q.lee@gmail.com*<br>
-🔠 Korean, English, Spanish <br>
+🔠 Korean, English, Spanish(👶) <br>
 
 <br>
 
-🐿️ a proud gopher <br>
-🎨 loving art&craft <br>
+🐿️ A proud gopher <br>
+🎨 Loving art&craft <br>
 🌐 Hello, World! A bit late, but I'm finally here to explore you. <br>
 💻 Check out my blog @ https://qminlee723.github.io - 👷‍♀️ under construction 🛠️
 
