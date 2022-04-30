@@ -27,6 +27,6 @@ qminlee723/qminlee723 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qminlee723&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qminlee723&show_icons=true&theme=radical)](https://github.com/qminlee723)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qminlee723&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qminlee723&layout=compact&theme=radical)](https://github.com/qminlee723)
