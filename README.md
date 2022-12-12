@@ -13,7 +13,7 @@
 > 🎬 Binge watching ...  `Drive to Survive`. <br>
 > 🍜 Food enthusiast. Protein keeps me healthy, and carbs make me happy. <br>
 > 🧗🏻‍♀️ Climbing has become my new passion.  <br>
-> 📫 If you want to get to know me more, make contact! You can reach me at *gyumin.q.lee@gmail.com* <br>
+> 📫 If you want to get to know me more, make [contact](https://github.com/qminlee723#contacts)! <br>
 <br>
 <br>
 
