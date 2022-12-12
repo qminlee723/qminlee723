@@ -33,7 +33,7 @@ Tools | `GitHub` `GitLab` `Atlassian Jira` `Notion` `Figma` `Mattermost` `Webex`
 
 
 ### Educations
-#### Samsung Software Acadmy for Youth(SSAFY) 7th(2022.01 ~ current)
+#### Samsung Software Academy for Youth(SSAFY) 7th(2022.01 ~ present)
 * One year software training program hosted by Samsung Electronics.
   * 🏅 SSAFY 자율프로젝트 우수상 (1st) [MeetUp](https://github.com/qminlee723/MeetUp) | FE | Typescript, React
   * 🏅 SSAFY 특화프로젝트 우수상 (3rd) [멍!더랜드](https://github.com/qminlee723/MTLD) | FE | Javascript, React
