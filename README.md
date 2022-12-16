@@ -24,9 +24,8 @@
 Specification	| List of technologies
 --- | ---
 UI	| `React` `Redux` `Vue` `Vuex` `TailwindCSS` `Bootstrap` `HTML` `CSS` `Sass` 
-Serverside |	`Django` `SQLite`
 Languages	| `Javascript` `Typescript` `Python`
-Tools | `GitHub` `GitLab` `Atlassian Jira` `Notion` `Figma` `Mattermost` `Webex`
+Tools | `Git` `Atlassian Jira` `Notion` `Figma` `Mattermost` 
 <br>
 
 
