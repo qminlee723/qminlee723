@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&section=header&text=👩🏻‍💻%20Gyumin%20Lee&fontSize=45&fontAlign=20)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508qminlee723&count_bg=%23FFB0DC&title_bg=%23767676&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 ### About me
 > 🙋🏻‍♀️ Hi, I'm Gyumin. <br>
@@ -53,6 +55,7 @@ Tools | `Git` `Atlassian Jira` `Notion` `Figma` `Mattermost`
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer)
+
 
 <!---
 qminlee723/qminlee723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
