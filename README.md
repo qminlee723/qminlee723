@@ -50,6 +50,7 @@ Tools | `Git` `Atlassian Jira` `Notion` `Figma` `Mattermost`
 
 ### Contacts
 📫  gyumin.q.lee@gmail.com <br>
+💖 [문송한 기술블로그 TechBlog](https://idontlikemath-moonsong.tistory.com/) <br>
 🔗 [LinkedIn](https://www.linkedin.com/in/gyumin-lee-7b277033/) <br>
 🚀 [포트폴리오(노션)](https://second-joke-d45.notion.site/Gyumin-Lee-c76dfff9db9d48f39b50be7626b083a4)
 <br>
