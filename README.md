@@ -25,16 +25,16 @@
 ### Languages & Technologies
 Specification	| List of technologies
 --- | ---
-UI	| `React` `Redux` `Vue` `Vuex` `TailwindCSS` `Bootstrap` `HTML` `CSS` `Sass` 
+UI	| `React` `Redux Toolkit` `Next.js` `Recoil` `Vue` `Vuex` `TailwindCSS` `EmotionCSS` `Bootstrap` `HTML` `CSS` `Sass` 
 Languages	| `Javascript` `Typescript` `Python`
-Tools | `Git` `Atlassian Jira` `Notion` `Figma` `Mattermost` 
+Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermost` 
 <br>
 
 
 
 
 ### Educations
-#### Samsung Software Academy for Youth(SSAFY) 7th(2022.01 ~ present)
+#### Samsung Software Academy for Youth(SSAFY) 7th(2022.01 ~ 2022.12)
 * One year software training program hosted by Samsung Electronics.
   * 🏅 SSAFY 자율프로젝트 우수상 (1st) [MeetUp](https://github.com/qminlee723/MeetUp) | FE | Typescript, React
   * 🏅 SSAFY 특화프로젝트 우수상 (3rd) [멍!더랜드](https://github.com/qminlee723/MTLD) | FE | Javascript, React
