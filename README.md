@@ -10,7 +10,7 @@
 > 🌱 I’m pursuing my career as a `front-end` developer. <br>
 > 📍 Currently live in Seoul, South Korea. <br>
 > 🔠 I speak `Korean`, `English`, and `Spanish`(👶). <br>
-> 📚 I believe in the power of consistency... now learning `flutter & dart`. <br>
+> 📚 I believe in the power of consistency... now learning `Swift`. <br>
 > 🌎 My passion for traveling has made me a better human being, with various perspectives on the world. <br>
 > 👥 I love meeting new people & listening to their stories! <br>
 > 🎬 Binge watching ...  `Drive to Survive`. <br>
