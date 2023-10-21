@@ -28,7 +28,7 @@ Specification	| List of technologies
 --- | ---
 UI	| `React` `Redux Toolkit` `Next.js` `Recoil` `Vue` `Vuex` `TailwindCSS` `EmotionCSS` `Bootstrap` `HTML` `CSS` `Sass` 
 Languages	| `Javascript` `Typescript` `Python`
-Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermost` 
+Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermost` `Slack`
 <br>
 
 
