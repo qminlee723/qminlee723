@@ -42,9 +42,6 @@ Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermo
   * 🏅 SSAFY 공통프로젝트 우수상 (2nd) [Trippy](https://github.com/qminlee723/Trippy) | FE | Javascript, Vue
 
 
-#### University of Minnesota, Twin Cities(2012.09 ~ 2014.12)
-* Global Studies B.A.
-  * Concentration: Latin America & Political Economy 
 <br>
 
 
