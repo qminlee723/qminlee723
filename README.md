@@ -10,7 +10,7 @@
 > 🌱 I’m pursuing my career as a `front-end` developer. <br>
 > 📍 Currently live in Seoul, South Korea. <br>
 > 🔠 I speak `Korean`, `English`, and `Spanish`(👶). <br>
-> 📚 I believe in the power of consistency... now learning `Swift`. <br>
+> 📚 I believe in the power of consistency... now digging into `Computer Science`. <br>
 > 🌎 My passion for traveling has made me a better human being, with various perspectives on the world. <br>
 > 👥 I love meeting new people & listening to their stories! <br>
 > 🎬 Binge watching ...  `Drive to Survive`. <br>
@@ -36,7 +36,7 @@ Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermo
 
 ### Educations
 #### Samsung Software Academy for Youth(SSAFY) 7th(2022.01 ~ 2022.12)
-* One year software training program hosted by Samsung Electronics.
+* One-year software training program hosted by Samsung Electronics.
   * 🏅 SSAFY 자율프로젝트 우수상 (1st) [MeetUp](https://github.com/qminlee723/MeetUp) | FE | Typescript, React
   * 🏅 SSAFY 특화프로젝트 우수상 (3rd) [멍!더랜드](https://github.com/qminlee723/MTLD) | FE | Javascript, React
   * 🏅 SSAFY 공통프로젝트 우수상 (2nd) [Trippy](https://github.com/qminlee723/Trippy) | FE | Javascript, Vue
