@@ -5,15 +5,14 @@
 > 🙋🏻‍♀️ Hi, I'm Gyumin. <br>
 > 🍛 It's like cumin, but with a softer c sound. <br>
 > 😏 I also go by 'Q', if that works better for you. <br>
-> 🌱 I’m pursuing my career as a `front-end` developer. <br>
-> 📍 Currently live in Seoul, South Korea. <br>
-> 🔠 I speak `Korean`, `English`, and `Spanish`(👶). <br>
-> 📚 I believe in the power of consistency... now digging into `Computer Science`. <br>
+> 📍 Based in Seoul, South Korea. <br>
+> 🔠 I speak `Korean`, `English`, and `Spanish`(👶-level). <br>
+> 💻 I also speak machine languages: `JavaScript`, `Python`, and baby-level `Java`. <br>
+> 📚 I believe in the power of consistency... now digging into `Data analysis`. <br>
 > 🌎 My passion for traveling has made me a better human being, with various perspectives on the world. <br>
 > 👥 I love meeting new people & listening to their stories! <br>
-> 🎬 Binge watching ...  `Drive to Survive`. <br>
 > 🍜 Food enthusiast. Protein keeps me healthy, and carbs make me happy. <br>
-> 🧗🏻‍♀️ Climbing has become my new passion.  <br>
+> 🧗🏻‍♀️ I boulder my way through life, problem by problem. <br>
 > 📫 If you want to get to know me more, make [contact](https://github.com/qminlee723#contacts)! <br>
 <br>
 <br>
@@ -25,7 +24,7 @@
 Specification	| List of technologies
 --- | ---
 UI	| `React` `Redux Toolkit` `Next.js` `Recoil` `Vue` `Vuex` `TailwindCSS` `EmotionCSS` `Bootstrap` `HTML` `CSS` `Sass` 
-Languages	| `Javascript` `Typescript` `Python`
+Languages	| `JavaScript` `TypeScript` `Python`
 Tools | `Git` `Atlassian Jira` `Atlassian Confluence` `Notion` `Figma` `Mattermost` `Slack`
 <br>
 
