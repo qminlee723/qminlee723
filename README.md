@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&section=header&text=👩🏻‍💻%20Gyumin%20Lee&fontSize=45&fontAlign=20)
 
-[![Hits](https://hits.sh/github.com/qminlee723.svg?label=today&color=fe7d37)](https://hits.sh/github.com/qminlee723/)
+[![Hits](https://hits.sh/github.com/qminlee723.svg?view=today-total&label=today&color=fe7d37)](https://hits.sh/github.com/qminlee723/)
 
 ### About me
 > 🙋🏻‍♀️ Hi, I'm Gyumin. <br>
